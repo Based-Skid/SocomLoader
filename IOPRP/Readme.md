@@ -1,4 +1,4 @@
-#DNAS Replacement IOP Modules.
+DNAS Replacement IOP Modules.
 
 These Files are Replacment IOP images For Socom 2, 3, CA, 
 
