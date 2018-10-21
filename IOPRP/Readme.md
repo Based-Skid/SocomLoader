@@ -6,5 +6,5 @@ The Game ISO has to be Rebuilt With These Images inorder to load the original pa
 
 These Files Enable The Use of The original Game patches From the Memory Card,
 
-Note: You Have to use the patch files included with this Repo otherwise the Patches will fail to load.
+Note: You Have to use the patch files included with this Repo otherwise the Patches will fail to load, You Will also Need to Recreate Your Network Configuration if one Already exists on the memory card.
 
